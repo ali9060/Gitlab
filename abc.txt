@@ -1,2 +1,0 @@
-this is git 
-welcome to jenkins session
